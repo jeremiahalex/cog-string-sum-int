@@ -1,0 +1,18 @@
+{
+  "name": "string-sum-int",
+  "version": "1.0.0",
+  "description": "Converts [name] props to [id] props using mysticism",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "6.6.0"
+  },
+  "main": "index.js",
+  "author": "Jeremiah Alexander",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  }
+}
